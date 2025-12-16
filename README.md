@@ -14,6 +14,10 @@ This project was developed as a **group assignment**.
 ## Description
 The aim of this project is to analyze factors affecting students' academic performance.
 
+## Project Context
+This project was developed as a **group project** within the scope of the  
+**Kodluyoruz Data Analysis & Artificial Intelligence Program**.
+
 
 ## Tools & Technologies
 - Python
