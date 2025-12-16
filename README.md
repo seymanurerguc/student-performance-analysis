@@ -13,3 +13,13 @@ This project was developed as a **group assignment**.
 
 ## Description
 The aim of this project is to analyze factors affecting students' academic performance.
+
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Google Colab
+
